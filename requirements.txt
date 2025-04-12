@@ -3,3 +3,6 @@ pandas
 ipykernel
 matplotlib
 seaborn
+streamlit
+mysql-connector-python
+mysql-connector
